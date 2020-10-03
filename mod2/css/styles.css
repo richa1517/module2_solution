@@ -1,0 +1,14 @@
+h1{
+	text-align: center;
+}
+div{
+	color:green;
+	font-family: all;
+}
+@media(min-width: 992px){
+	div{
+		width:33%;
+		color:red;
+		background-color: blue;
+	}
+}
